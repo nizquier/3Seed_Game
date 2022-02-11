@@ -23,5 +23,5 @@ https://sarturxz.itch.io/forest-pixel-platformer-2d-art-tilesset
 PIXEL EDITOR:
 	https://lospec.com/palette-list/endesga-32
 
-SPRITES:
-	https://itch.io/game-assets/free/genre-platformer/tag-pixel-art
+License free SPRITES:
+   https://itch.io/game-assets/free/genre-platformer/tag-pixel-art
