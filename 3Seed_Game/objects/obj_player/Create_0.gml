@@ -1,1 +1,1 @@
-gravity_direction = 270
+gravity_direction = 270 //Gravity direction set to downwards (270 degrees)
