@@ -1,4 +1,4 @@
-speed += 2;
+vspeed += 5;
 
 if(instance_exists(obj_player)) {
 	ex = mouse_x
