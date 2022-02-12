@@ -1,9 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"spr_treeSeed","path":"sprites/spr_treeSeed/spr_treeSeed.yy",},"order":8,},
     {"id":{"name":"tileset_sarturTexture1","path":"tilesets/tileset_sarturTexture1/tileset_sarturTexture1.yy",},"order":0,},
     {"id":{"name":"spr_playerThrow","path":"sprites/spr_playerThrow/spr_playerThrow.yy",},"order":7,},
     {"id":{"name":"spr_sarturTexture1","path":"sprites/spr_sarturTexture1/spr_sarturTexture1.yy",},"order":2,},
     {"id":{"name":"spr_playerRun","path":"sprites/spr_playerRun/spr_playerRun.yy",},"order":6,},
+    {"id":{"name":"obj_3Seed","path":"objects/obj_3Seed/obj_3Seed.yy",},"order":3,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":2,},
     {"id":{"name":"spr_playerJump","path":"sprites/spr_playerJump/spr_playerJump.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
