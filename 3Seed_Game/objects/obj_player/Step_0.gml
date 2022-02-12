@@ -15,7 +15,7 @@ if(key_space) {
 	  Throws when the space key is held down and the left mouse key is pressed
 	  can only throw seeds at intervals of 75 frames.*/
 	if(mouse_check_button(mb_left) && canThrow) {
-		instance_create_layer(x, y, "Blocks", obj_3Seed);
+		instance_create_layer(x, y, "Instances", obj_3Seed);
 		canThrow = false;
 		alarm[0] = 75;
 	}
@@ -25,30 +25,33 @@ if(key_space) {
 	  Made so code run ONLY if listed keys are pressed */
 else if(key_left || key_right || key_up || key_space) {	
 	//If 'a' key and the player is NOT inside a block then run
-	if (key_left && !instance_place(x-move_speed, y, obj_block) && !key_right) {
+	if (key_left && !key_right && !isLeft(obj_block) && !isLeft(obj_treeUpright)) {
 		x += -move_speed;
 		sprite_index = spr_playerRun;
 		image_xscale = -1;
 	}
 	//If 'd' key and the player is NOT inside a block then run
-	if (key_right && !instance_place(x+move_speed, y, obj_block && !key_left)) {
+	if (key_right && !key_left && !isRight(obj_block) && !isRight(obj_treeUpright)) {
 		x += move_speed;
 		sprite_index = spr_playerRun;
 		image_xscale = 1;
 	}
 	//If 'w' key and the player is above a block then jump
-	if (key_up && instance_place(x, y + 1, obj_block)) {
+	if (key_up && (isBelow(obj_block) || isBelow(obj_treeLeft) ||  isBelow(obj_treeUpright))) {
 		sprite_index = spr_playerJump;
 		vspeed = jump_height;
-	}
+	}  
 } else {
 	sprite_index = spr_PlayerIdle //Idle sprite animation (no keys pressed)
 	image_speed = 1; //Image speed was set to 0 in space key function, here we set it back to normal
 }
 
 //Gravity check
-if (instance_place(x, y + 1, obj_block)) {
+if (isBelow(obj_block) || isBelow(obj_treeUpright)) {
 	gravity = 0;
 } else gravity = 1;
 vspeed = clamp(vspeed, -20, 12) //if (vspeed > 12) then vspeed = 12;
 
+//See script climb() for more info
+climb(obj_treeUpright);
+climb(obj_treeRoot);
