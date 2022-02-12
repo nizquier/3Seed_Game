@@ -1,6 +1,7 @@
 key_left = keyboard_check(ord("A"));
-key_right = keyboard_check(ord("D"));
 key_up = keyboard_check(ord("W"));
+key_down = keyboard_check(ord("S"));
+key_right = keyboard_check(ord("D"));
 key_space = keyboard_check(vk_space);
 
 //If space key is held down the other movements may not happen
