@@ -1,6 +1,6 @@
-key_left = keyboard_check(vk_left);
-key_right = keyboard_check(vk_right);
-key_up = keyboard_check(vk_up);
+key_left = keyboard_check(ord("A"));
+key_right = keyboard_check(ord("D"));
+key_up = keyboard_check(ord("W"));
 key_space = keyboard_check(vk_space);
 
 //If space key is held down the other movements may not happen
@@ -23,19 +23,19 @@ if(key_space) {
 	/*If statement to check if any of the parameter keys are being pressed
 	  Made so code run ONLY if listed keys are pressed */
 else if(key_left || key_right || key_up || key_space) {	
-	//If left key and the player is NOT inside a block then run
+	//If 'a' key and the player is NOT inside a block then run
 	if (key_left && !instance_place(x-move_speed, y, obj_block) && !key_right) {
 		x += -move_speed;
 		sprite_index = spr_playerRun;
 		image_xscale = -1;
 	}
-	//If right key and the player is NOT inside a block then run
+	//If 'd' key and the player is NOT inside a block then run
 	if (key_right && !instance_place(x+move_speed, y, obj_block && !key_left)) {
 		x += move_speed;
 		sprite_index = spr_playerRun;
 		image_xscale = 1;
 	}
-	//If up key and the player is above a block then jump
+	//If 'w' key and the player is above a block then jump
 	if (key_up && instance_place(x, y + 1, obj_block)) {
 		sprite_index = spr_playerJump;
 		vspeed = jump_height;
