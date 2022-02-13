@@ -4,7 +4,7 @@ image_speed = 0;
 //Chooses one of the frames at random to add variety
 image_index = irandom(sprite_get_number(id) - 1)
 
-//Chekc if the player exists near. If not, it spawns; if so, it doesn't as to avoid clipping
+//Check if the player exists near. If not, it spawns; if so, it doesn't as to avoid clipping
 if(instance_exists(obj_player)) {
 		if(instance_place(x, y, obj_player)) instance_destroy();
 		//else if(instance_place(x, y - 13, obj_player)) instance_destroy();
