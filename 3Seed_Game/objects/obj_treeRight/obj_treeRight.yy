@@ -25,7 +25,9 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"obj_name","path":"objects/obj_treeLeft/obj_treeLeft.yy",},"objectId":{"name":"obj_treeLeft","path":"objects/obj_treeLeft/obj_treeLeft.yy",},"value":"obj_treeRight","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
