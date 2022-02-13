@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_treeLeft",
+    "path": "objects/obj_treeLeft/obj_treeLeft.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
