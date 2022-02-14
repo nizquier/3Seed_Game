@@ -20,6 +20,7 @@
     {"id":{"name":"obj_treeRight","path":"objects/obj_treeRight/obj_treeRight.yy",},"order":8,},
     {"id":{"name":"spr_playerJump","path":"sprites/spr_playerJump/spr_playerJump.yy",},"order":5,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
+    {"id":{"name":"spr_playerClimb","path":"sprites/spr_playerClimb/spr_playerClimb.yy",},"order":18,},
     {"id":{"name":"spr_treeLeft","path":"sprites/spr_treeLeft/spr_treeLeft.yy",},"order":12,},
     {"id":{"name":"isDirection","path":"scripts/isDirection/isDirection.yy",},"order":0,},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
