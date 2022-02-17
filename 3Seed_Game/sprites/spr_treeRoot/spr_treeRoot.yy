@@ -77,8 +77,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Branches",
+    "path": "folders/Sprites/Branches.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_treeRoot",
