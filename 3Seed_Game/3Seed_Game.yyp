@@ -40,11 +40,9 @@
     {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -78,11 +76,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-<<<<<<< HEAD
     "IDEVersion": "2022.1.0.609",
-=======
-    "IDEVersion": "2.3.7.606",
->>>>>>> 3e4531756a51ba68b34ca78550b5b11f70196115
   },
   "resourceVersion": "1.4",
   "name": "3Seed_Game",
