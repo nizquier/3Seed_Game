@@ -4,10 +4,14 @@ key_down = keyboard_check(ord("S"));
 key_right = keyboard_check(ord("D"));
 key_space = keyboard_check(vk_space);
 
+branchLeft = instance_place(x, y, obj_treeLeft);
+branchRight = instance_place(x, y, obj_treeRight);
+branchDown = instance_place(x, y, obj_treeRoot);
+branchUp = instance_place(x, y, obj_treeUpright);
+
 //If space key is held down the other movements may not happen
 if(key_space) {
 	sprite_index = spr_playerThrow;
-	if(image_index == 0) then image_speed = 0;
 	if(mouse_x > x) image_xscale = 1;
 	else if(mouse_x < x) image_xscale = -1;
 	
@@ -19,7 +23,7 @@ if(key_space) {
 		canThrow = false;
 		alarm[0] = 75;
 	}
-} 
+}
 
 	/*If statement to check if any of the parameter keys are being pressed
 	  Made so code run ONLY if listed keys are pressed */
@@ -40,10 +44,9 @@ else if(key_left || key_right || key_up || key_space) {
 	if (key_up && (isBelow(obj_block) || isBelow(obj_treeLeft) ||  isBelow(obj_treeUpright))) {
 		sprite_index = spr_playerJump;
 		vspeed = jump_height;
-	}  
+	}
 } else {
 	sprite_index = spr_PlayerIdle //Idle sprite animation (no keys pressed)
-	image_speed = 1; //Image speed was set to 0 in space key function, here we set it back to normal
 }
 
 //Gravity check
