@@ -9,7 +9,11 @@
   "option_sci_usesci": false,
   "option_author": "",
 <<<<<<< HEAD
+<<<<<<< HEAD
   "option_collision_compatibility": false,
+=======
+  "option_collision_compatibility": true,
+>>>>>>> c839333224af213007d1cface48250fce6c5b402
 =======
   "option_collision_compatibility": true,
 >>>>>>> c839333224af213007d1cface48250fce6c5b402

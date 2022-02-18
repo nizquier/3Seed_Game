@@ -53,7 +53,11 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+=======
+    {"roomId":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},},
+>>>>>>> c839333224af213007d1cface48250fce6c5b402
 =======
     {"roomId":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},},
 >>>>>>> c839333224af213007d1cface48250fce6c5b402
