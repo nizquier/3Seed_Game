@@ -37,7 +37,7 @@
     {"id":{"name":"spr_treeRight","path":"sprites/spr_treeRight/spr_treeRight.yy",},"order":1,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":4,},
     {"id":{"name":"spr_PlayerIdle","path":"sprites/spr_PlayerIdle/spr_PlayerIdle.yy",},"order":1,},
-    {"id":{"name":"lvl00","path":"rooms/lvl00/lvl00.yy",},"order":0,},
+   
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -52,7 +52,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"lvl00","path":"rooms/lvl00/lvl00.yy",},},
+    
     {"roomId":{"name":"Lvl","path":"rooms/Lvl/Lvl.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
