@@ -17,6 +17,7 @@
     {"id":{"name":"spr_treeHarvest","path":"sprites/spr_treeHarvest/spr_treeHarvest.yy",},"order":15,},
     {"id":{"name":"obj_3Seed","path":"objects/obj_3Seed/obj_3Seed.yy",},"order":3,},
     {"id":{"name":"obj_soilBlock","path":"objects/obj_soilBlock/obj_soilBlock.yy",},"order":6,},
+    {"id":{"name":"Lvl","path":"rooms/Lvl/Lvl.yy",},"order":1,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":2,},
     {"id":{"name":"obj_treeRight","path":"objects/obj_treeRight/obj_treeRight.yy",},"order":8,},
     {"id":{"name":"spr_playerJump","path":"sprites/spr_playerJump/spr_playerJump.yy",},"order":5,},
@@ -30,7 +31,7 @@
     {"id":{"name":"spr_treeRight","path":"sprites/spr_treeRight/spr_treeRight.yy",},"order":1,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":4,},
     {"id":{"name":"spr_PlayerIdle","path":"sprites/spr_PlayerIdle/spr_PlayerIdle.yy",},"order":1,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"lvl00","path":"rooms/lvl00/lvl00.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -47,7 +48,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"lvl00","path":"rooms/lvl00/lvl00.yy",},},
+    {"roomId":{"name":"Lvl","path":"rooms/Lvl/Lvl.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
