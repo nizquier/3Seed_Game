@@ -8,7 +8,11 @@
   "option_steam_app_id": "0",
   "option_sci_usesci": false,
   "option_author": "",
+<<<<<<< HEAD
   "option_collision_compatibility": false,
+=======
+  "option_collision_compatibility": true,
+>>>>>>> c839333224af213007d1cface48250fce6c5b402
   "option_lastchanged": "",
   "option_spine_licence": false,
   "option_template_image": "${base_options_dir}/main/template_image.png",
