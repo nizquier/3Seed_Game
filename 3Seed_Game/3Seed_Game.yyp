@@ -31,6 +31,7 @@
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":17,},
     {"id":{"name":"obj_soilBlock","path":"objects/obj_soilBlock/obj_soilBlock.yy",},"order":6,},
     {"id":{"name":"Lvl","path":"rooms/Lvl/Lvl.yy",},"order":1,},
+    {"id":{"name":"spr_PlayerMelee","path":"sprites/spr_PlayerMelee/spr_PlayerMelee.yy",},"order":19,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":2,},
     {"id":{"name":"obj_treeRight","path":"objects/obj_treeRight/obj_treeRight.yy",},"order":8,},
     {"id":{"name":"spr_playerJump","path":"sprites/spr_playerJump/spr_playerJump.yy",},"order":4,},
