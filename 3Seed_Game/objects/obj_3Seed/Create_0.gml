@@ -9,4 +9,4 @@ if(instance_exists(obj_player)) {
 }
 
 //Every 50 frames the seed is destroy so the player cannot throw it into infinity
-alarm[0] = 50;
+alarm[0] = range;
