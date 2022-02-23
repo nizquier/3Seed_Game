@@ -20,6 +20,10 @@ if(key_space) {
 	  can only throw seeds at intervals of 75 frames.*/
 	if(mouse_check_button(mb_left) && canThrow) {
 		instance_create_layer(x, y, "Instances", obj_3Seed);
+		if(range_power)
+		{
+			obj_3Seed.range += 50
+		}
 		canThrow = false;
 		alarm[0] = 75;
 	}
