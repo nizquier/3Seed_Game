@@ -17,15 +17,13 @@ if(distance_to_object(obj_player) < range){
 			image_xscale = image_xscale *  -1
 		}
 	}
-	speed = 2
+	speed = 5
 	move_towards_point(obj_player.x, obj_player.y, 2)
-	speed = hsp
+	hspeed = 5
 }
 else{
 	sprite_index = sprite_enemy
-	//state = States.Regular
+	hspeed = 2
+	state = States.Regular
 }
-
-
-
 

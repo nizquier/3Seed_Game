@@ -33,6 +33,8 @@
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":17,},
     {"id":{"name":"obj_soilBlock","path":"objects/obj_soilBlock/obj_soilBlock.yy",},"order":6,},
     {"id":{"name":"RoomHS","path":"rooms/RoomHS/RoomHS.yy",},"order":1,},
+    {"id":{"name":"obj_mushroom_death","path":"objects/obj_mushroom_death/obj_mushroom_death.yy",},"order":20,},
+    {"id":{"name":"obj_mushroom","path":"objects/obj_mushroom/obj_mushroom.yy",},"order":19,},
     {"id":{"name":"spr_mushroom_takeHit","path":"sprites/spr_mushroom_takeHit/spr_mushroom_takeHit.yy",},"order":6,},
     {"id":{"name":"spr_PlayerMelee","path":"sprites/spr_PlayerMelee/spr_PlayerMelee.yy",},"order":19,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":2,},

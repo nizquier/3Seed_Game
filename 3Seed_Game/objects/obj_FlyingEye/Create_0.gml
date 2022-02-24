@@ -15,4 +15,9 @@ hspeed = hsp
 state = States.Regular
 EDir = EnemyDirection.Left
 
+sprite_enemy = spr_flyingEye
+sprite_enemy_hit = spr_flyingEye_takehit
+object_enemy_death = obj_flyingEye_Death
+sprite_enemy_attack = spr_flyingEye_attack
+
 
