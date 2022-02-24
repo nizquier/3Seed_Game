@@ -34,13 +34,9 @@
     {"id":{"name":"Note3","path":"notes/Note3/Note3.yy",},"order":21,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":17,},
     {"id":{"name":"obj_soilBlock","path":"objects/obj_soilBlock/obj_soilBlock.yy",},"order":6,},
-<<<<<<< HEAD
     {"id":{"name":"RoomHS","path":"rooms/RoomHS/RoomHS.yy",},"order":1,},
     {"id":{"name":"spr_mushroom_takeHit","path":"sprites/spr_mushroom_takeHit/spr_mushroom_takeHit.yy",},"order":6,},
-=======
-    {"id":{"name":"Lvl","path":"rooms/Lvl/Lvl.yy",},"order":1,},
     {"id":{"name":"spr_PlayerMelee","path":"sprites/spr_PlayerMelee/spr_PlayerMelee.yy",},"order":19,},
->>>>>>> f5bec5a2fa188d8c3e17db285750d76297c6c2ac
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":2,},
     {"id":{"name":"obj_treeRight","path":"objects/obj_treeRight/obj_treeRight.yy",},"order":8,},
     {"id":{"name":"spr_playerJump","path":"sprites/spr_playerJump/spr_playerJump.yy",},"order":4,},
@@ -55,11 +51,8 @@
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"order":1,},
     {"id":{"name":"spr_range","path":"sprites/spr_range/spr_range.yy",},"order":20,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":2,},
-<<<<<<< HEAD
     {"id":{"name":"spr_mushroom_attack","path":"sprites/spr_mushroom_attack/spr_mushroom_attack.yy",},"order":7,},
-=======
     {"id":{"name":"obj_rangePower","path":"objects/obj_rangePower/obj_rangePower.yy",},"order":17,},
->>>>>>> f5bec5a2fa188d8c3e17db285750d76297c6c2ac
     {"id":{"name":"spr_soilBlock","path":"sprites/spr_soilBlock/spr_soilBlock.yy",},"order":8,},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":19,},
     {"id":{"name":"spr_tree1","path":"sprites/spr_tree1/spr_tree1.yy",},"order":16,},
@@ -85,10 +78,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-<<<<<<< HEAD
     {"roomId":{"name":"RoomHS","path":"rooms/RoomHS/RoomHS.yy",},},
-=======
->>>>>>> f5bec5a2fa188d8c3e17db285750d76297c6c2ac
     {"roomId":{"name":"RoomM","path":"rooms/RoomM/RoomM.yy",},},
     {"roomId":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
