@@ -4,8 +4,6 @@ if(distance_to_object(obj_player) < range){
 	currentX = x
 	currentY = y
 	path_end()
-	pathStarted = false
-	
 	state = States.Chasing
 	if(sprite_index = sprite_enemy_hit) exit;
 	sprite_index = sprite_enemy_attack
@@ -27,10 +25,9 @@ if(distance_to_object(obj_player) < range){
 }
 else{
 	sprite_index = sprite_enemy
-	if(!pathStarted){
-		pathStarted = true
+	if(state = States.Chasing){
 		new_path = path_add()
-		if(mp_potential_path_object(new_path, currentX, currentY, 1, 4, obj_block))
+		if(mp_potential_path_object(new_path, obj_player.x, obj_player.y, 1, 4, obj_block))
 			path_start(new_path, 1, 0, 0)
 		//path_start(path_level01_enemy01, 1, path_action_reverse, 2)
 	}
