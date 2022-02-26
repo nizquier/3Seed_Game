@@ -99,7 +99,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_PlayerMelee","path":"sprites/spr_PlayerMelee/spr_PlayerMelee.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_PlayerMelee",
     "tags": [],
     "resourceType": "GMSequence",

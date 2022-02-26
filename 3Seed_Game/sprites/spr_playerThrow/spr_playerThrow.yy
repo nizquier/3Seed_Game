@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_playerThrow","path":"sprites/spr_playerThrow/spr_playerThrow.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_playerThrow",
     "tags": [],
     "resourceType": "GMSequence",

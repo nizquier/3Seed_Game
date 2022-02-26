@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_treeRoot","path":"sprites/spr_treeRoot/spr_treeRoot.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_treeRoot",
     "tags": [],
     "resourceType": "GMSequence",

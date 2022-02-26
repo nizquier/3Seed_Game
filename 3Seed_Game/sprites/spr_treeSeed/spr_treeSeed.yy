@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_treeSeed","path":"sprites/spr_treeSeed/spr_treeSeed.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_treeSeed",
     "tags": [],
     "resourceType": "GMSequence",

@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_flyingEye_death","path":"sprites/spr_flyingEye_death/spr_flyingEye_death.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_flyingEye_death",
     "tags": [],
     "resourceType": "GMSequence",

@@ -79,7 +79,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_playerClimb","path":"sprites/spr_playerClimb/spr_playerClimb.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_playerClimb",
     "tags": [],
     "resourceType": "GMSequence",

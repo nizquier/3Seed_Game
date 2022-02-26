@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_flyingEye_takehit","path":"sprites/spr_flyingEye_takehit/spr_flyingEye_takehit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_flyingEye_takehit",
     "tags": [],
     "resourceType": "GMSequence",

@@ -83,7 +83,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_treeRight","path":"sprites/spr_treeRight/spr_treeRight.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_treeRight",
     "tags": [],
     "resourceType": "GMSequence",
