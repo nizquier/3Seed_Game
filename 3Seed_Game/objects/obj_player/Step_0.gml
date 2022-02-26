@@ -37,12 +37,14 @@ else if(key_left || key_right || key_up || key_space) {
 		x += -move_speed;
 		sprite_index = spr_playerRun;
 		image_xscale = -1;
+		PlayerFacing = DirectionState.left
 	}
 	//If 'd' key and the player is NOT inside a block then run
 	if (key_right && !key_left && !isRight(obj_block) && !isRight(obj_treeUpright)) {
 		x += move_speed;
 		sprite_index = spr_playerRun;
 		image_xscale = 1;
+		PlayerFacing = DirectionState.right
 	}
 	//If 'w' key and the player is above a block then jump
 	if (key_up && (isBelow(obj_block) || isBelow(obj_treeLeft) ||  isBelow(obj_treeUpright))) {

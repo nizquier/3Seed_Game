@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description flying eye patroller 
 // You can write your code in this editor
 if(distance_to_object(obj_player) < range){
 	currentX = x
@@ -29,6 +29,5 @@ else{
 		new_path = path_add()
 		if(mp_potential_path_object(new_path, obj_player.x, obj_player.y, 1, 4, obj_block))
 			path_start(new_path, 1, 0, 0)
-		//path_start(path_level01_enemy01, 1, path_action_reverse, 2)
 	}
 }
