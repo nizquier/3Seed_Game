@@ -7,3 +7,5 @@ sprite_enemy = spr_mushroom
 sprite_enemy_hit = spr_mushroom_takeHit
 object_enemy_death = obj_mushroom_death
 sprite_enemy_attack = spr_mushroom_attack
+
+state = States.Regular
