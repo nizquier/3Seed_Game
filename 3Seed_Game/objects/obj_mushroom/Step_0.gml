@@ -2,28 +2,11 @@
 // You can write your code in this editor
 
 if(distance_to_object(obj_player) < range){
-	state = States.Chasing
+	path_end()
 	if(sprite_index = sprite_enemy_hit) exit;
 	sprite_index = sprite_enemy_attack
-	p_direction = point_direction(x,y,obj_player.x,obj_player.y)
-	if (p_direction >=135 && p_direction <= 225){
-		if(EDir != EnemyDirection.Left){ 
-			EDir = EnemyDirection.Left
-			image_xscale = image_xscale *  -1
-		}
-	}else{
-		if(EDir != EnemyDirection.Right){
-			EDir = EnemyDirection.Right
-			image_xscale = image_xscale *  -1
-		}
-	}
-	speed = 5
-	move_towards_point(obj_player.x, obj_player.y, 2)
-	hspeed = 5
+	hspeed=0
+	exit;
 }
-else{
-	sprite_index = sprite_enemy
-	hspeed = 2
-	state = States.Regular
-}
-
+sprite_index = sprite_enemy
+hspeed=hsp
