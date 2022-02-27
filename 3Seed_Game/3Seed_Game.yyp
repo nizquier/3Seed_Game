@@ -10,11 +10,8 @@
     {"id":{"name":"tileset_sarturTexture1","path":"tilesets/tileset_sarturTexture1/tileset_sarturTexture1.yy",},"order":0,},
     {"id":{"name":"spr_treeLeft","path":"sprites/spr_treeLeft/spr_treeLeft.yy",},"order":3,},
     {"id":{"name":"obj_flyingEye_Death","path":"objects/obj_flyingEye_Death/obj_flyingEye_Death.yy",},"order":17,},
-<<<<<<< HEAD
     {"id":{"name":"obj_mainMenu","path":"objects/obj_mainMenu/obj_mainMenu.yy",},"order":21,},
-=======
     {"id":{"name":"spr_healthmeter_icon","path":"sprites/spr_healthmeter_icon/spr_healthmeter_icon.yy",},"order":7,},
->>>>>>> f6b897a6cbf09903cc4d10365732887915e41899
     {"id":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},"order":1,},
     {"id":{"name":"spr_flyingEye","path":"sprites/spr_flyingEye/spr_flyingEye.yy",},"order":0,},
     {"id":{"name":"obj_block_top","path":"objects/obj_block_top/obj_block_top.yy",},"order":28,},
@@ -64,11 +61,8 @@
     {"id":{"name":"spr_boss_hit","path":"sprites/spr_boss_hit/spr_boss_hit.yy",},"order":3,},
     {"id":{"name":"obj_flyingEye_hit","path":"objects/obj_flyingEye_hit/obj_flyingEye_hit.yy",},"order":18,},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":13,},
-<<<<<<< HEAD
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},"order":1,},
-=======
     {"id":{"name":"obj_mushroom_pathfollower","path":"objects/obj_mushroom_pathfollower/obj_mushroom_pathfollower.yy",},"order":24,},
->>>>>>> f6b897a6cbf09903cc4d10365732887915e41899
     {"id":{"name":"spr_flyingEye_death","path":"sprites/spr_flyingEye_death/spr_flyingEye_death.yy",},"order":3,},
     {"id":{"name":"spr_playerClimb","path":"sprites/spr_playerClimb/spr_playerClimb.yy",},"order":12,},
     {"id":{"name":"path_level01_enemy02","path":"paths/path_level01_enemy02/path_level01_enemy02.yy",},"order":1,},
@@ -90,12 +84,9 @@
     {"id":{"name":"spr_treeRight","path":"sprites/spr_treeRight/spr_treeRight.yy",},"order":1,},
     {"id":{"name":"spr_healthmeter_left","path":"sprites/spr_healthmeter_left/spr_healthmeter_left.yy",},"order":1,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":3,},
-<<<<<<< HEAD
     {"id":{"name":"font_title","path":"fonts/font_title/font_title.yy",},"order":0,},
-=======
     {"id":{"name":"spr_boss_spawn_enemies","path":"sprites/spr_boss_spawn_enemies/spr_boss_spawn_enemies.yy",},"order":6,},
     {"id":{"name":"spr_boss_attack","path":"sprites/spr_boss_attack/spr_boss_attack.yy",},"order":2,},
->>>>>>> f6b897a6cbf09903cc4d10365732887915e41899
     {"id":{"name":"spr_PlayerIdle","path":"sprites/spr_PlayerIdle/spr_PlayerIdle.yy",},"order":0,},
     {"id":{"name":"spr_background03","path":"sprites/spr_background03/spr_background03.yy",},"order":1,},
     {"id":{"name":"spr_background05","path":"sprites/spr_background05/spr_background05.yy",},"order":4,},
@@ -137,11 +128,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-<<<<<<< HEAD
     {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
-=======
     {"roomId":{"name":"MHS_NEW","path":"rooms/MHS_NEW/MHS_NEW.yy",},},
->>>>>>> f6b897a6cbf09903cc4d10365732887915e41899
     {"roomId":{"name":"RoomHS","path":"rooms/RoomHS/RoomHS.yy",},},
     {"roomId":{"name":"RoomM","path":"rooms/RoomM/RoomM.yy",},},
     {"roomId":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},},
