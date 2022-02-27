@@ -143,7 +143,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_boss_entry","path":"sprites/spr_boss_entry/spr_boss_entry.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_boss_entry",
     "tags": [],
     "resourceType": "GMSequence",

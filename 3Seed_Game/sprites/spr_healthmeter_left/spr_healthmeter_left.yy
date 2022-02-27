@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_healthmeter_left","path":"sprites/spr_healthmeter_left/spr_healthmeter_left.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_healthmeter_left",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_props02","path":"sprites/spr_props02/spr_props02.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_props02",
     "tags": [],
     "resourceType": "GMSequence",

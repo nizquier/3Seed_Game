@@ -143,7 +143,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_boss_death","path":"sprites/spr_boss_death/spr_boss_death.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_boss_death",
     "tags": [],
     "resourceType": "GMSequence",

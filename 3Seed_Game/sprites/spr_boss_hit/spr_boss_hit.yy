@@ -75,7 +75,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_boss_hit","path":"sprites/spr_boss_hit/spr_boss_hit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_boss_hit",
     "tags": [],
     "resourceType": "GMSequence",

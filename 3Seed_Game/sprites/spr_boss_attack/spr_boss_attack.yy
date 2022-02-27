@@ -115,7 +115,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_boss_attack","path":"sprites/spr_boss_attack/spr_boss_attack.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_boss_attack",
     "tags": [],
     "resourceType": "GMSequence",
