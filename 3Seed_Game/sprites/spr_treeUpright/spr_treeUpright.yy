@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_treeUpright","path":"sprites/spr_treeUpright/spr_treeUpright.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_treeUpright",
     "tags": [],
     "resourceType": "GMSequence",

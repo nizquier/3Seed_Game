@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_soilBlock","path":"sprites/spr_soilBlock/spr_soilBlock.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_soilBlock",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_powerUp","path":"sprites/spr_powerUp/spr_powerUp.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_powerUp",
     "tags": [],
     "resourceType": "GMSequence",

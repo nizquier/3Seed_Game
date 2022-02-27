@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_treeHarvest","path":"sprites/spr_treeHarvest/spr_treeHarvest.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_treeHarvest",
     "tags": [],
     "resourceType": "GMSequence",

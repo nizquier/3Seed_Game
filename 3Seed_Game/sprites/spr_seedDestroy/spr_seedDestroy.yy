@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_seedDestroy","path":"sprites/spr_seedDestroy/spr_seedDestroy.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_seedDestroy",
     "tags": [],
     "resourceType": "GMSequence",

@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_flyingEye","path":"sprites/spr_flyingEye/spr_flyingEye.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_flyingEye",
     "tags": [],
     "resourceType": "GMSequence",

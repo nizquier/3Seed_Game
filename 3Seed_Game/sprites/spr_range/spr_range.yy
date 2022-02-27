@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_range","path":"sprites/spr_range/spr_range.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_range",
     "tags": [],
     "resourceType": "GMSequence",

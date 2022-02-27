@@ -71,7 +71,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mushroom_takeHit","path":"sprites/spr_mushroom_takeHit/spr_mushroom_takeHit.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mushroom_takeHit",
     "tags": [],
     "resourceType": "GMSequence",

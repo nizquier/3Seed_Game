@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_jumpPower","path":"sprites/spr_jumpPower/spr_jumpPower.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_jumpPower",
     "tags": [],
     "resourceType": "GMSequence",
