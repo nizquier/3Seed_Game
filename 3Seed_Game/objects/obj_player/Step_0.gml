@@ -29,7 +29,7 @@ if(key_space) {
 	}
 }
 //Melle attack
-else if(mouse_check_button(mb_left)) {
+else if(keyboard_check(ord("E"))) {
 	instance_create_layer(x, y, "Instances", obj_playerMeleeAtk);
 	sprite_index = spr_PlayerMelee;
 	if(direction == 180) image_xscale = -1;
