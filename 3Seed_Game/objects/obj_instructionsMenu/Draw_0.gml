@@ -25,4 +25,4 @@ for (var i = 0; i < array_length_1d(instruct); i++){
 draw_set_font(font_small)
 
 //Draw instructions for returning to main screen
-draw_text(room_width/2, room_height*.6, "Press 'Enter' to return to Main Menu")
+draw_text(room_width/2, room_height*.9, "Press 'Enter' to return to Main Menu")

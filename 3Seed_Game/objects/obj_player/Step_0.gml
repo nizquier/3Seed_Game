@@ -28,7 +28,12 @@ if(key_space) {
 		alarm[0] = 75;
 	}
 }
-
+//Melle attack
+else if(keyboard_check_pressed(ord("E"))) {
+	instance_create_layer(x, y, "Instances", obj_playerMeleeAtk);
+	sprite_index = spr_PlayerMelee;
+	if(direction == 180) image_xscale = -1;
+}
 	/*If statement to check if any of the parameter keys are being pressed
 	  Made so code run ONLY if listed keys are pressed */
 else if(key_left || key_right || key_up || key_space) {	
@@ -64,3 +69,6 @@ vspeed = clamp(vspeed, -20, 12) //if (vspeed > 12) then vspeed = 12;
 //See script climb() for more info
 climb(obj_treeUpright);
 climb(obj_treeRoot);
+
+x = clamp(x, 0, room_width-sprite_width/2)
+y = clamp(y, 0, room_height-sprite_height/2)

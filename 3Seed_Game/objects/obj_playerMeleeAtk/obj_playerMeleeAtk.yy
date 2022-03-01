@@ -1,16 +1,13 @@
 {
   "spriteId": {
-    "name": "spr_mushroom",
-    "path": "sprites/spr_mushroom/spr_mushroom.yy",
+    "name": "spr_PlayerMelee",
+    "path": "sprites/spr_PlayerMelee/spr_PlayerMelee.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_FlyingEye",
-    "path": "objects/obj_FlyingEye/obj_FlyingEye.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -25,19 +22,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"range","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"objectId":{"name":"obj_FlyingEye","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"scoreWorth","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"objectId":{"name":"obj_FlyingEye","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_mushroom",
+  "name": "obj_playerMeleeAtk",
   "tags": [],
   "resourceType": "GMObject",
 }
