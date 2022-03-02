@@ -7,6 +7,7 @@ if(!hasTimelineStarted) {
 	draw_self()
 }
 if(timeline_running = true) {
+	draw_set_halign(fa_left)
 	draw_set_color(c_white)
 	draw_rectangle(x-margin, y-margin, x+margin+text_width, y+margin+text_height, false)
 	draw_set_color(c_black)
