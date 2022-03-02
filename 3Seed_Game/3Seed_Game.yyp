@@ -148,10 +148,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
     {"roomId":{"name":"RoomTutorial","path":"rooms/RoomTutorial/RoomTutorial.yy",},},
     {"roomId":{"name":"MHS_NEW","path":"rooms/MHS_NEW/MHS_NEW.yy",},},
     {"roomId":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},},
-    {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
     {"roomId":{"name":"RoomHS","path":"rooms/RoomHS/RoomHS.yy",},},
     {"roomId":{"name":"RoomM","path":"rooms/RoomM/RoomM.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},

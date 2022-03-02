@@ -31,7 +31,7 @@ if enter {
 		
 		case 1:
 			//Instructions
-			room_goto(RoomInstructions)
+			room_goto(RoomTutorial)
 		break;
 		
 		case 2:
