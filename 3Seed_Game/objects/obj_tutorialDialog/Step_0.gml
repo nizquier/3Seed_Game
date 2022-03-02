@@ -19,7 +19,5 @@ if(!instance_place(x , y, obj_player)){
 	timeline_position = 1;
 }
 
-
-
 text_position += text_speed
 new_text = string_copy(text, 1, text_position)

@@ -26,7 +26,7 @@ if enter {
 	switch(index){
 		case 0:
 			//Start
-			room_goto_next()
+			room_goto(MHS_NEW)
 		break;
 		
 		case 1:
