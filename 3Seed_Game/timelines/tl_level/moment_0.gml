@@ -1,0 +1,1 @@
+TutotialDialog("Move towards the lamp to move to next area")

@@ -1,0 +1,1 @@
+TutotialDialog("Use A,D for movement")
