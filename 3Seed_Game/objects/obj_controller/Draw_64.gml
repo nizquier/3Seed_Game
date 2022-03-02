@@ -16,7 +16,10 @@ draw_sprite(spr_healthmeter_holder, 0, 30, 30)
 draw_sprite(spr_healthmeter_icon, 0, 55, 55)
 
 
+//setting font
+draw_set_font(font_small)
 
+//score and room restart
 draw_text(30, 150, "Score: " + string(score))
 draw_text(30, 100, "Press ALT-R to restart the room.")
 

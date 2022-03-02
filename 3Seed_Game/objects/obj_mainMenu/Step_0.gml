@@ -45,3 +45,10 @@ if enter {
 		break;
 	}
 }
+
+//remove persistant controller in the main menu
+if(instance_exists(obj_controller)){
+	with(obj_controller){
+		instance_destroy()
+	}
+}
