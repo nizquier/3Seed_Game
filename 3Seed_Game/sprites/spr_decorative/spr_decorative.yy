@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_decorative","path":"sprites/spr_decorative/spr_decorative.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_decorative",
     "tags": [],
     "resourceType": "GMSequence",

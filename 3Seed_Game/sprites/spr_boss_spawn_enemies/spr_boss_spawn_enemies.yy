@@ -87,7 +87,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_boss_spawn_enemies","path":"sprites/spr_boss_spawn_enemies/spr_boss_spawn_enemies.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_boss_spawn_enemies",
     "tags": [],
     "resourceType": "GMSequence",
