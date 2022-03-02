@@ -30,6 +30,7 @@
   "properties": [],
   "overriddenProperties": [
     {"propertyId":{"name":"range","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"objectId":{"name":"obj_FlyingEye","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"scoreWorth","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"objectId":{"name":"obj_FlyingEye","path":"objects/obj_FlyingEye/obj_FlyingEye.yy",},"value":"5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

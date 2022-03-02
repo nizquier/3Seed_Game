@@ -1,4 +1,4 @@
-/// @description 
+                 /// @description 
 
 //Moving throught the menu
 var up = keyboard_check_pressed(vk_up)
@@ -13,7 +13,7 @@ if move != 0 {
 	
 	//Clamp move to make sure it does not go ouside of the array
 	var size = array_length_1d(menu)
-	
+
 	//Force index to beginning or end depending on current location
 	if index < 0
 		index = size - 1
@@ -31,10 +31,12 @@ if enter {
 		
 		case 1:
 			//Instructions
+			room_goto(RoomInstructions)
 		break;
 		
 		case 2:
 			//Credits
+			room_goto(RoomCredits)
 		break;
 		
 		case 3:

@@ -17,5 +17,6 @@ draw_sprite(spr_healthmeter_icon, 0, 55, 55)
 
 
 
-draw_text(30, 130, "Score: " + string(score))
+draw_text(30, 150, "Score: " + string(score))
 draw_text(30, 100, "Press ALT-R to restart the room.")
+
