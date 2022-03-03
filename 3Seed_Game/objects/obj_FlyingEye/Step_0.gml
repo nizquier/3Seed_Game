@@ -26,7 +26,7 @@ else{
 	//state = States.Regular
 }
 
-
+isFar(obj_player, id)
 
 
 

@@ -48,6 +48,7 @@
     {"id":{"name":"tl_conflict","path":"timelines/tl_conflict/tl_conflict.yy",},"order":1,},
     {"id":{"name":"spr_block_left","path":"sprites/spr_block_left/spr_block_left.yy",},"order":1,},
     {"id":{"name":"spr_marker","path":"sprites/spr_marker/spr_marker.yy",},"order":18,},
+    {"id":{"name":"isFar","path":"scripts/isFar/isFar.yy",},"order":3,},
     {"id":{"name":"spr_exit","path":"sprites/spr_exit/spr_exit.yy",},"order":15,},
     {"id":{"name":"spr_treeHarvest","path":"sprites/spr_treeHarvest/spr_treeHarvest.yy",},"order":10,},
     {"id":{"name":"spr_healthbar_left","path":"sprites/spr_healthbar_left/spr_healthbar_left.yy",},"order":4,},

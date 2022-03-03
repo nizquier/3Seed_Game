@@ -10,3 +10,5 @@ if(distance_to_object(obj_player) < range){
 }
 sprite_index = sprite_enemy
 hspeed=hsp
+
+isFar(obj_player, id)

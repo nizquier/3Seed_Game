@@ -31,3 +31,6 @@ else{
 			path_start(new_path, 1, 0, 0)
 	}
 }
+
+
+isFar(obj_player, id)

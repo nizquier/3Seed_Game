@@ -72,7 +72,3 @@ climb(obj_treeRoot);
 
 x = clamp(x, 0, room_width-sprite_width/2)
 y = clamp(y, 0, room_height-sprite_height/2)
-
-if(distance_to_object(obj_FlyingEye) > 500) {
-	instance_deactivate_object(obj_FlyingEye)
-} else instance_activate_object(obj_FlyingEye)
