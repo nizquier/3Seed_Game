@@ -9,3 +9,9 @@ enum DirectionState {
 canThrow = true; //Boolean that decides if the player can throw the 3Seed(c) or not
 
 PlayerFacing = DirectionState.right //initial player direction set for player
+
+if(global.checkpoint == true)
+{
+	x = obj_controller.x_checkpoint
+	y = obj_controller.y_checkpoint
+}

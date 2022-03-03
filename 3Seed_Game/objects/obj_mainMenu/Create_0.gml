@@ -9,3 +9,4 @@ menu[3] = "Exit Game";
 //Set initial index
 index = 0;
 
+global.checkpoint = false
