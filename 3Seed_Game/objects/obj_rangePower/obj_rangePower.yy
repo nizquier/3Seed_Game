@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_range",
-    "path": "sprites/spr_range/spr_range.yy",
+    "name": "spr_rangePower",
+    "path": "sprites/spr_rangePower/spr_rangePower.yy",
   },
   "solid": false,
   "visible": true,
