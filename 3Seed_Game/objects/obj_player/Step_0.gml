@@ -33,11 +33,15 @@ else if(keyboard_check(ord("E"))) {
 	instance_create_layer(x, y, "Instances", obj_playerMeleeAtk);
 	sprite_index = spr_PlayerMelee;
 	if(direction == 180) image_xscale = -1;
+	if(image_index < 1) audio_play_sound(snd_swordSlash, 10, false)
 }
 	/*If statement to check if any of the parameter keys are being pressed
 	  Made so code run ONLY if listed keys are pressed */
 else if(key_left || key_right || key_up || key_space) {	
 	//If 'a' key and the player is NOT inside a block then run
+	if(key_left || key_right) {
+		if(image_index < 1) audio_play_sound(snd_walking, 10, false)
+	}
 	if (key_left && !key_right && !isLeft(obj_block) && !isLeft(obj_treeUpright)) {
 		x += -move_speed;
 		sprite_index = spr_playerRun;
@@ -51,6 +55,7 @@ else if(key_left || key_right || key_up || key_space) {
 		image_xscale = 1;
 		PlayerFacing = DirectionState.right
 	}
+	if (key_up && (isBelow(obj_block))) audio_play_sound(snd_jump, 10, false)
 	//If 'w' key and the player is above a block then jump
 	if (key_up && (isBelow(obj_block) || isBelow(obj_treeLeft) ||  isBelow(obj_treeUpright))) {
 		sprite_index = spr_playerJump;

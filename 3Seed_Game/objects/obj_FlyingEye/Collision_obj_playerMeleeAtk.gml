@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if(image_index < 1) audio_play_sound(snd_enemyHit, 10, false)
 sprite_index = sprite_enemy_hit;
 life -= 2.5
 if(life <= 0){ 
