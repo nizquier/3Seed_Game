@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_hiddenBckgrnd",
-    "path": "sprites/spr_hiddenBckgrnd/spr_hiddenBckgrnd.yy",
+    "name": "spr_hiddenBckgrnd2",
+    "path": "sprites/spr_hiddenBckgrnd2/spr_hiddenBckgrnd2.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_hiddenBackground",
+  "name": "obj_hiddenBackground2",
   "tags": [],
   "resourceType": "GMObject",
 }
