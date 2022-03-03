@@ -31,6 +31,7 @@
     {"id":{"name":"obj_treeRoot","path":"objects/obj_treeRoot/obj_treeRoot.yy",},"order":11,},
     {"id":{"name":"obj_block_left","path":"objects/obj_block_left/obj_block_left.yy",},"order":26,},
     {"id":{"name":"spr_jumpPower","path":"sprites/spr_jumpPower/spr_jumpPower.yy",},"order":21,},
+    {"id":{"name":"spr_soilBlock32","path":"sprites/spr_soilBlock32/spr_soilBlock32.yy",},"order":27,},
     {"id":{"name":"spr_boss_entry","path":"sprites/spr_boss_entry/spr_boss_entry.yy",},"order":5,},
     {"id":{"name":"obj_marker","path":"objects/obj_marker/obj_marker.yy",},"order":15,},
     {"id":{"name":"RoomM","path":"rooms/RoomM/RoomM.yy",},"order":2,},

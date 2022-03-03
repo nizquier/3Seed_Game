@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_soilBlock",
-    "path": "sprites/spr_soilBlock/spr_soilBlock.yy",
+    "name": "spr_soilBlock32",
+    "path": "sprites/spr_soilBlock32/spr_soilBlock32.yy",
   },
   "solid": true,
   "visible": false,
