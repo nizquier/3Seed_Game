@@ -1,3 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_restart()
+if(global.game_over = true)
+{
+	room_restart()
+	global.game_over = false
+}
