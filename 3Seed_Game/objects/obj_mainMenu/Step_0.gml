@@ -8,6 +8,7 @@ var enter = keyboard_check_pressed(vk_enter)
 var move = down - up
 
 if move != 0 {
+	audio_play_sound(snd_menuMove, 10, false)
 	//Moving the index
 	index += move
 	
@@ -23,6 +24,7 @@ if move != 0 {
 
 //Making the menu items work
 if enter {
+	audio_play_sound(snd_menuSelect, 10, false)
 	switch(index){
 		case 0:
 			//Start
