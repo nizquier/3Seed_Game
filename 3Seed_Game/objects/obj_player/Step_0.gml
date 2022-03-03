@@ -55,11 +55,11 @@ else if(key_left || key_right || key_up || key_space) {
 		image_xscale = 1;
 		PlayerFacing = DirectionState.right
 	}
+	if (key_up && (isBelow(obj_block))) audio_play_sound(snd_jump, 10, false)
 	//If 'w' key and the player is above a block then jump
 	if (key_up && (isBelow(obj_block) || isBelow(obj_treeLeft) ||  isBelow(obj_treeUpright))) {
 		sprite_index = spr_playerJump;
 		vspeed = jump_height;
-		audio_play_sound(snd_jump, 10, false)
 	}
 } else {
 	sprite_index = spr_PlayerIdle //Idle sprite animation (no keys pressed)
