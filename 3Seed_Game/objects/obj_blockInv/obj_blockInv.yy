@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_treeUprightSmall",
-    "path": "sprites/spr_treeUprightSmall/spr_treeUprightSmall.yy",
+    "name": "spr_block32",
+    "path": "sprites/spr_block32/spr_block32.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_treeLeft",
-    "path": "objects/obj_treeLeft/obj_treeLeft.yy",
+    "name": "obj_block",
+    "path": "objects/obj_block/obj_block.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,9 +23,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -33,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_treeUpright",
+  "name": "obj_blockInv",
   "tags": [],
   "resourceType": "GMObject",
 }

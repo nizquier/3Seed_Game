@@ -72,3 +72,5 @@ climb(obj_treeRoot);
 
 x = clamp(x, 0, room_width-sprite_width/2)
 y = clamp(y, 0, room_height-sprite_height/2)
+
+
