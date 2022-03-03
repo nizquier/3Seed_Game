@@ -58,6 +58,7 @@
     {"id":{"name":"spr_exit","path":"sprites/spr_exit/spr_exit.yy",},"order":27,},
     {"id":{"name":"spr_treeHarvest","path":"sprites/spr_treeHarvest/spr_treeHarvest.yy",},"order":20,},
     {"id":{"name":"spr_healthbar_left","path":"sprites/spr_healthbar_left/spr_healthbar_left.yy",},"order":4,},
+    {"id":{"name":"NewRoom01","path":"rooms/NewRoom01/NewRoom01.yy",},"order":7,},
     {"id":{"name":"obj_3Seed","path":"objects/obj_3Seed/obj_3Seed.yy",},"order":3,},
     {"id":{"name":"obj_block_bottom","path":"objects/obj_block_bottom/obj_block_bottom.yy",},"order":26,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":12,},
@@ -169,6 +170,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"NewRoom01","path":"rooms/NewRoom01/NewRoom01.yy",},},
     {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
     {"roomId":{"name":"RoomTutorial","path":"rooms/RoomTutorial/RoomTutorial.yy",},},
     {"roomId":{"name":"RoomN","path":"rooms/RoomN/RoomN.yy",},},
