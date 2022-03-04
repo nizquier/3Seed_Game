@@ -7,7 +7,7 @@
     "path": "folders/Timelines.yy",
   },
   "resourceVersion": "1.0",
-  "name": "tl_movement",
+  "name": "tl_sideBranches",
   "tags": [],
   "resourceType": "GMTimeline",
 }

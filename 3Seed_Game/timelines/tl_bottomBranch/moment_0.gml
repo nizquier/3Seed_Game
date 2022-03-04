@@ -1,0 +1,1 @@
+TutotialDialog("You can throw seeds at the ground to create strutures!")

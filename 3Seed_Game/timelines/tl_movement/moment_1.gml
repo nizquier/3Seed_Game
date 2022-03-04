@@ -1,1 +1,1 @@
-TutotialDialog("Use 'W' to Jump")
+TutotialDialog("Use A,D for movement, and 'W' to Jump")

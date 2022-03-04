@@ -1,0 +1,1 @@
+TutotialDialog("You can throw seeds at any green(grassy) area!\n From many different angles!")

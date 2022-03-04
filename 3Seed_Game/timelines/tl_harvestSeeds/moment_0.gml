@@ -1,0 +1,1 @@
+TutotialDialog("The brown seeds increase your score!")

@@ -1,1 +1,1 @@
-TutotialDialog("Trow seeds at the walls to create branches")
+TutotialDialog("Throw seeds at the walls to create branches")

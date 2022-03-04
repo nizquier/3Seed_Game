@@ -1,0 +1,1 @@
+TutotialDialog("The green jars increase the distance of the seed throw!")
