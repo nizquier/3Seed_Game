@@ -28,12 +28,12 @@ if enter {
 	switch(index){
 		case 0:
 			//Start
-			room_goto_next()
+			room_goto(MAIN_ROOM)
 		break;
 		
 		case 1:
 			//Instructions
-			room_goto(RoomTutorial)
+			room_goto(RoomTutorial2)
 		break;
 		
 		case 2:

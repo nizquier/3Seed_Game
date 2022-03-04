@@ -1,0 +1,1 @@
+TutotialDialog("The blue jars increase your jump hight!")

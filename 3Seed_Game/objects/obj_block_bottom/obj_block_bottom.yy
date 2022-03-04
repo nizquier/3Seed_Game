@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "spr_block_bottom",
+    "path": "sprites/spr_block_bottom/spr_block_bottom.yy",
   },
   "solid": true,
   "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_soilBlock",
-    "path": "objects/obj_soilBlock/obj_soilBlock.yy",
+    "name": "obj_block",
+    "path": "objects/obj_block/obj_block.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

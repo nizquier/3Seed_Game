@@ -1,1 +1,1 @@
-TutotialDialog("Throw seeds at the top to create branches")
+TutotialDialog("Throw seeds at the top to create branches to climb across!")
