@@ -5,3 +5,7 @@ if(state = boss.entry) {
 	sprite_index = spr_boss_walk
 	state = boss.spawned
 }
+
+if(state = boss.death){
+	instance_destroy()
+}

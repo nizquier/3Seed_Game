@@ -6,4 +6,4 @@ if(life <= 0) {
 	sprite_index = spr_boss_death
 	state = boss.death
 }
-instance_destroy(other)
+

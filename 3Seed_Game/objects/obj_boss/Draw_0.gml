@@ -6,3 +6,5 @@ if(state != noone){
 				(life/100)*100, c_black, c_red, c_green, 0,1,1)
 }
 
+
+
