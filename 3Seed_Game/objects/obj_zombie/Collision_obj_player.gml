@@ -6,7 +6,7 @@ if(instance_exists(obj_player)){
 		if(player_health <= 0){
 			instance_destroy()
 		}
-		direction = point_direction(x,y, x+10, y)
+		direction = point_direction(x,y, x+5, y)
 		image_angle = direction
 		speed = 5
 	}	
