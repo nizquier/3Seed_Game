@@ -3,3 +3,4 @@
 
 path_start(path_level02_enemy03, 1, path_action_reverse, 2)
 hasPushed = false
+islft = false

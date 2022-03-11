@@ -7,7 +7,14 @@ if(instance_exists(obj_player)){
 		if(player_health <= 0){
 			instance_destroy()
 		}
-		direction = point_direction(x, y, x+5, y)
+		if(!other.islft){
+			direction = point_direction(x, y, x+50, y)
+			image_yscale = 1
+		}
+		if(other.islft){
+			direction = point_direction(x, y, x-50, y)
+			image_yscale = 1
+		}
 		image_angle = direction
 		speed = 5
 	}	

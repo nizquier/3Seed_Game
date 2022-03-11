@@ -28,7 +28,7 @@ if enter {
 	switch(index){
 		case 0:
 			//Start
-			room_goto(MAIN_ROOM)
+			room_goto(RoomN)
 		break;
 		
 		case 1:

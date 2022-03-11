@@ -3,6 +3,7 @@
 
 life -= 30
 if(life <= 0) {
-	instance_destroy()
+	sprite_index = spr_zombie_death
+	path_end()
 }
 instance_destroy(other)
