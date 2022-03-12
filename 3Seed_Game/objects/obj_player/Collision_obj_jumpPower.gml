@@ -3,5 +3,7 @@
 obj_player.jump_height -= other.jump_power 
 instance_destroy(other)
 alarm[3] = 300
+isPowerup = true
+powerUpType = 0.0
 
 audio_play_sound(snd_potionDrink2, 10, false)

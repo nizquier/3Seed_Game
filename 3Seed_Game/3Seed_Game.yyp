@@ -73,6 +73,7 @@
     {"id":{"name":"obj_3Seed","path":"objects/obj_3Seed/obj_3Seed.yy",},"order":3,},
     {"id":{"name":"tl_rangePowerups","path":"timelines/tl_rangePowerups/tl_rangePowerups.yy",},"order":7,},
     {"id":{"name":"obj_block_bottom","path":"objects/obj_block_bottom/obj_block_bottom.yy",},"order":26,},
+    {"id":{"name":"outlineShader","path":"shaders/outlineShader/outlineShader.yy",},"order":0,},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},"order":12,},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},"order":29,},
     {"id":{"name":"obj_soilBlock","path":"objects/obj_soilBlock/obj_soilBlock.yy",},"order":4,},
@@ -231,7 +232,7 @@
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
   ],
   "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+    {"isScaled":true,"autocrop":false,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
   ],
   "IncludedFiles": [],
   "MetaData": {
