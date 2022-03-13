@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(instance_exists(obj_player)){
+if(instance_exists(obj_player) and sprite_index != spr_zombie_death){
 	with(obj_player){
 		player_health -= 10;
 		if(player_health <= 0){
