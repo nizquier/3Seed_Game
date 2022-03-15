@@ -15,4 +15,10 @@ if(distance_to_object(obj_player) < range){
 sprite_index = sprite_enemy
 hspeed=hsp
 
+if(path_speed == 1) {
+   image_xscale = -1
+}else {
+  image_xscale = 1
+}
+
 isFar(obj_player, id)
