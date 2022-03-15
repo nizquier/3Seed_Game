@@ -22,4 +22,4 @@ draw_set_font(font_small)
 //score and room restart
 draw_text(30, 150, "Score: " + string(score))
 draw_text(30, 100, "Press ALT-R to restart the room.")
-
+draw_text(30, 200, "lives: " + string(lives))
