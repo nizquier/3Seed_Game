@@ -15,11 +15,20 @@ if(instance_exists(obj_player))
 draw_sprite(spr_healthmeter_holder, 0, 30, 30)
 draw_sprite(spr_healthmeter_icon, 0, 55, 55)
 
+//health icons
+var i;
+for(i=0; i<lives; i++){
+	draw_sprite(spr_healthmeter_icon, 0, (55 + 40 * i), 105)
+}
+
+//draw_sprite(spr_healthmeter_icon, 0, 55, 105)
+//draw_sprite(spr_healthmeter_icon, 0, 95, 105)
+//draw_sprite(spr_healthmeter_icon, 0, 135, 105)
 
 //setting font
 draw_set_font(font_small)
 
 //score and room restart
-draw_text(30, 150, "Score: " + string(score))
-draw_text(30, 100, "Press ALT-R to restart the room.")
-draw_text(30, 200, "lives: " + string(lives))
+draw_text(30, 180, "Score: " + string(score))
+draw_text(30, 140, "Press ALT-R to restart the room.")
+//draw_text(30, 200, "lives: " + string(lives))
