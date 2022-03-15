@@ -7,6 +7,11 @@ draw_sprite(spr_healthmeter_left,0,55,30)
 draw_sprite_stretched(spr_health_meter_mid, 0, 65, 30, 150, 25)
 draw_sprite(spr_healthmeter_right, 0, 215, 30)
 
+if (global.game_over) {
+	draw_set_halign(fa_center)
+	draw_text(room_width / 2, room_height / 2, "Game Over! Press ALT + R to restart.")
+}
+
 //acttual health meter
 if(instance_exists(obj_player))
 	draw_sprite_stretched(spr_healthbar_mid, 0, 60, 30, (obj_player.player_health/obj_player.max_player_health)*162, 25)
@@ -30,5 +35,6 @@ draw_set_font(font_small)
 
 //score and room restart
 draw_text(30, 180, "Score: " + string(score))
-draw_text(30, 140, "Press ALT-R to restart the room.")
+draw_text(30, 140, "Press ALT-R to restart the Game.")
 //draw_text(30, 200, "lives: " + string(lives))
+

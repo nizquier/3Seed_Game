@@ -1,5 +1,6 @@
 /// @description flying eye patroller 
 // You can write your code in this editor
+if(!instance_exists(obj_player)) exit;
 if(distance_to_object(obj_player) < range){
 	currentX = x
 	currentY = y
