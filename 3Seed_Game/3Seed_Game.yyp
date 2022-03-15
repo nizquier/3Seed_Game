@@ -31,6 +31,7 @@
     {"id":{"name":"tl_top_branches","path":"timelines/tl_top_branches/tl_top_branches.yy",},"order":3,},
     {"id":{"name":"spr_boss_death","path":"sprites/spr_boss_death/spr_boss_death.yy",},"order":4,},
     {"id":{"name":"obj_instructionsMenu","path":"objects/obj_instructionsMenu/obj_instructionsMenu.yy",},"order":32,},
+    {"id":{"name":"spr_endBackground","path":"sprites/spr_endBackground/spr_endBackground.yy",},"order":47,},
     {"id":{"name":"spr_treeUpright","path":"sprites/spr_treeUpright/spr_treeUpright.yy",},"order":18,},
     {"id":{"name":"spr_sarturTexture1","path":"sprites/spr_sarturTexture1/spr_sarturTexture1.yy",},"order":2,},
     {"id":{"name":"spr_hiddenBckgrnd2","path":"sprites/spr_hiddenBckgrnd2/spr_hiddenBckgrnd2.yy",},"order":44,},
@@ -81,6 +82,7 @@
     {"id":{"name":"RoomHS","path":"rooms/RoomHS/RoomHS.yy",},"order":1,},
     {"id":{"name":"snd_potionDrink","path":"sounds/snd_potionDrink/snd_potionDrink.yy",},"order":10,},
     {"id":{"name":"spr_hiddenBckgrnd","path":"sprites/spr_hiddenBckgrnd/spr_hiddenBckgrnd.yy",},"order":41,},
+    {"id":{"name":"RoomEND","path":"rooms/RoomEND/RoomEND.yy",},"order":9,},
     {"id":{"name":"obj_mushroom_death","path":"objects/obj_mushroom_death/obj_mushroom_death.yy",},"order":20,},
     {"id":{"name":"obj_soilBlockInv","path":"objects/obj_soilBlockInv/obj_soilBlockInv.yy",},"order":36,},
     {"id":{"name":"snd_enemyHit","path":"sounds/snd_enemyHit/snd_enemyHit.yy",},"order":4,},
@@ -204,6 +206,7 @@
     {"roomId":{"name":"RoomInstructions","path":"rooms/RoomInstructions/RoomInstructions.yy",},},
     {"roomId":{"name":"RoomCredits","path":"rooms/RoomCredits/RoomCredits.yy",},},
     {"roomId":{"name":"RoomTutorial2","path":"rooms/RoomTutorial2/RoomTutorial2.yy",},},
+    {"roomId":{"name":"RoomEND","path":"rooms/RoomEND/RoomEND.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
