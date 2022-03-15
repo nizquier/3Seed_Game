@@ -105,6 +105,7 @@
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":11,},
     {"id":{"name":"obj_hiddenBackground","path":"objects/obj_hiddenBackground/obj_hiddenBackground.yy",},"order":37,},
     {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},"order":3,},
+    {"id":{"name":"path_tutorial","path":"paths/path_tutorial/path_tutorial.yy",},"order":3,},
     {"id":{"name":"font_menu","path":"fonts/font_menu/font_menu.yy",},"order":1,},
     {"id":{"name":"obj_mushroom_pathfollower","path":"objects/obj_mushroom_pathfollower/obj_mushroom_pathfollower.yy",},"order":25,},
     {"id":{"name":"spr_flyingEye_death","path":"sprites/spr_flyingEye_death/spr_flyingEye_death.yy",},"order":3,},
@@ -241,7 +242,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.1.618",
+    "IDEVersion": "2022.2.0.614",
   },
   "resourceVersion": "1.5",
   "name": "3Seed_Game",

@@ -3,4 +3,4 @@
 event_inherited()
 currentX = x
 currentY = y
-path_start(path_level01_enemy01, 1, path_action_reverse, 2)
+path_start(path_name, 1, path_action_reverse, 2)
