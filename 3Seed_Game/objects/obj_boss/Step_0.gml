@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+x = clamp(x, 240, 1022)
+y = clamp(y, 272, 480)
+
 if(distance_to_object(obj_player) < range and state = noone){
 	sprite_index = spr_boss_entry
 	state = boss.entry

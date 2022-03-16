@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_heathPower",
-    "path": "sprites/spr_heathPower/spr_heathPower.yy",
+    "name": "spr_healthmeter_icon",
+    "path": "sprites/spr_healthmeter_icon/spr_healthmeter_icon.yy",
   },
   "solid": false,
   "visible": true,
