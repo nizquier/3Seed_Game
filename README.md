@@ -1,5 +1,22 @@
 # 3Seed_Game
- 
+
+■ Designer: Nicolas Izquierdo<br />
+■ Producer: Mahesha Hesaragatta Siddappa<br />
+■ Artist: Addison Causey<br />
+■ Programmer: Mohammad Husein<br />
+
+# The fictional background of the game:
+The game takes place on a desolate planet, devoid of any green
+life. Humans now live underground for centuries and have forgotten
+how the land above them even looks like. Among those humans is
+an alchemist named Rosa, our main character. She believes there
+is still hope for the planet to bloom once more and is willing to make
+a dangerous journey to the surface to prove it.
+Before embarking on her journey she uses alchemy to recreate tree
+branches and trunks using special seeds. On her journey she faces
+difficult to get through areas as well as underground enemies
+
+# Credits
 Main Character:<br />
 Red hood pixel character by Legnops<br />
 https://legnops.itch.io/red-hood-character<br />
