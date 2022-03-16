@@ -4,7 +4,7 @@
 x = clamp(x, 240, 1022)
 y = clamp(y, 272, 480)
 
-if(distance_to_object(obj_player) < range and state = noone){
+if(distance_to_object(obj_player) < range and state = noone and y <= 477){
 	sprite_index = spr_boss_entry
 	state = boss.entry
 }
