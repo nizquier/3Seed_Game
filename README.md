@@ -16,6 +16,19 @@ Before embarking on her journey she uses alchemy to recreate tree
 branches and trunks using special seeds. On her journey she faces
 difficult to get through areas as well as underground enemies
 
+# Keybindings:
+D -> Move Right<br />
+A -> Move Left<br />
+W -> Jump<br />
+E -> Melee Attack<br />
+Space + Mouse Left Click -> throw seeds <br />
+ALT + G -> Restart Game<br />
+ALT + R -> Restart Checkpoint<br />
+
+The player get’s through the levels by throwing seeds at the branches and use the branches to move through the level.<br />
+The player can use melee attacks and throw seeds at enemies to damage the enemies.<br />
+Note: Time lines are implemented in the tutorial section dialogs.<br />
+
 # Credits
 Main Character:<br />
 Red hood pixel character by Legnops<br />
