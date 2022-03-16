@@ -4,6 +4,7 @@ life -= 30
 if(life <= 0) {
 	hspeed = 0
 	sprite_index = spr_boss_death
+	object_set_solid(obj_boss, false);
 	state = boss.death
 }
 instance_destroy(other)

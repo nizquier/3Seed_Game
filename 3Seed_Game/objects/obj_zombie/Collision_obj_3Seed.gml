@@ -4,6 +4,7 @@
 life -= 30
 if(life <= 0) {
 	sprite_index = spr_zombie_death
+	object_set_solid(obj_zombie, false);
 	path_end()
 }
 instance_destroy(other)
