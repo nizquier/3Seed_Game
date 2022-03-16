@@ -15,7 +15,7 @@ if(instance_exists(obj_player) and sprite_index != spr_zombie_death){
 			direction = point_direction(x, y, x-50, y)
 			image_yscale = 1
 		}
-		image_angle = direction
+		//image_angle = direction
 		speed = 5
 	}	
 	alarm[0] = 3
