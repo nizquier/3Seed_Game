@@ -24,6 +24,16 @@ https://chierit.itch.io/boss-demon-slime<br />
 Zombie Sprite by Slyddar<br />
 https://drive.google.com/drive/folders/1-8DCSHYcqluL24G0tIAB1lSmB1CxqfGE<br />
 
+Monsters Creatures Fantasy by LuizMelo<br />
+https://luizmelo.itch.io/monsters-creatures-fantasy<br />
+
+Music:<br />
+https://simon13666.itch.io/sound-starter-pack?download<br />
+
+https://svl.itch.io/rpg-music-pack-svl<br />
+
+https://thesparrowhunt.itch.io/lava-dukk-ost<br />
+
 Other:
 Box_Item_Pixel by Blackdragon1727<br />
 https://blackdragon1727.itch.io/box-item-pixel<br />
